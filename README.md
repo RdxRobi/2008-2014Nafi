@@ -25,11 +25,11 @@
 
  😉pip install cython
 
- 🥱git clone https://github.com/RdxRobi/clone-2fb.git
+ 🥱git clone https://github.com/RdxRobi/2008-2014Nafi.git
 
- 🤨cd clone-2fb
+ 🤨cd 2008-2014Nafi
 
- 😂python 2Nafi-old.py
+ 😂python 2Nafi-old-enc-enc.py
 
  🙂My whatsapp Number : +8801887057695
 
