@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=D90000&lines=WELCOME+TO+NAFIUL+FB+HACKING+TOOLS)](https://git.io/typing-svg)
+
 # 2008-2014 old id cloning 
 #First you need to get approved
 
